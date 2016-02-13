@@ -6,11 +6,9 @@ title: #HackingGreat 2
 # \#HackingGreat 2
 Aika ja paikka: 2015-04-21, 16:00–
 
-Meetup ilmoittautumista varten: (http://www.meetup.com/HackingGreat-Cybercom/events/228824776/)[http://www.meetup.com/HackingGreat-Cybercom/events/228824776/]
+Meetup ilmoittautumista varten: [http://www.meetup.com/HackingGreat-Cybercom/events/228824776/](http://www.meetup.com/HackingGreat-Cybercom/events/228824776/)
 
-![Kävelijämme, Pertti](https://pbs.twimg.com/media/CQKs2NtUAAA7XrZ.jpg:large "Kävelijämme, Pertti")
-
-Hacking Great -tapahtuman esitiedot ja ohjeet:
+![Kävelijämme, Pertti](https://pbs.twimg.com/media/CQKs2NtUAAA7XrZ.jpg:medium "Kävelijämme, Pertti")
 
 ---
 
@@ -34,7 +32,7 @@ Vetäjänä frontend-guru Timo Myllymäki
 Vetäjänä koneälyalkemisti Tero Keski-Valkama
 
 ### Esitiedot ja tarvittavat työkalut:
-* Täältä voi lukea taustaa: (http://pages.cs.wisc.edu/~jerryzhu/cs540/handouts/hearst98-SVMtutorial.pdf)[http://pages.cs.wisc.edu/~jerryzhu/cs540/handouts/hearst98-SVMtutorial.pdf]
+* Täältä voi lukea taustaa: [http://pages.cs.wisc.edu/~jerryzhu/cs540/handouts/hearst98-SVMtutorial.pdf](http://pages.cs.wisc.edu/~jerryzhu/cs540/handouts/hearst98-SVMtutorial.pdf)
 * Octave: https://www.gnu.org/software/octave/
 * Node.js: https://nodejs.org
 * Pohjakoodi: `git clone https://github.com/cybercom-finland/HackingGreatML`
@@ -44,7 +42,7 @@ Vetäjänä koneälyalkemisti Tero Keski-Valkama
 ## Kaikkiin trackeihin yhteiset työkalut
 * Oma läppäri, ja mieluiten Linux
 * Joku IDE, esimerkiksi:
-  * Eclipse (https://eclipse.org/ Eclipseen kannattaa ladata vaikka Enide Studio 2014 Nodeclipse-distribuutio sieltä ohjelmiston sisältä Marketplacesta)
-  * Atom (https://atom.io/)
-  * WebStorm (https://www.jetbrains.com/webstorm/)
+  * Eclipse ([https://eclipse.org/](https://eclipse.org/) Eclipseen kannattaa ladata vaikka Enide Studio 2014 Nodeclipse-distribuutio sieltä ohjelmiston sisältä Marketplacesta)
+  * Atom ([https://atom.io/](https://atom.io/))
+  * WebStorm ([https://www.jetbrains.com/webstorm/](https://www.jetbrains.com/webstorm/))
   * tai vaikka kaikki.
