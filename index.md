@@ -9,17 +9,23 @@ Meetup ilmoittautumista varten: http://www.meetup.com/HackingGreat-Cybercom/even
 
 Hacking Great -tapahtuman esitiedot ja ohjeet:
 
+---
+
 ## Tech track 1: IoT-teollisuusväylät ja node.js
 Vetäjänä IoT-velhot Jyrki Kujanpää ja Tarmo Pajunen
 
 ### Esitiedot ja tarvittavat työkalut:
 * 
 
+---
+
 ## Tech track 2: Mittausdatan visualisointi ja modernit data-orientoituneet käyttöliittymät
 Vetäjänä frontend-guru Timo Myllymäki
 
 ### Esitiedot ja tarvittavat työkalut:
 * 
+
+---
 
 ## Tech track 3: Machine learning -alkeita Support Vector Machinesilla
 Vetäjänä koneälyalkemisti Tero Keski-Valkama
@@ -28,6 +34,8 @@ Vetäjänä koneälyalkemisti Tero Keski-Valkama
 * Octave: https://www.gnu.org/software/octave/
 * Node.js: https://nodejs.org
 * Pohjakoodi: `git clone https://github.com/cybercom-finland/HackingGreatML`
+
+---
 
 ## Kaikkiin trackeihin yhteiset työkalut
 * Oma läppäri, ja mieluiten Linux
