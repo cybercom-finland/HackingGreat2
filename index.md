@@ -5,7 +5,8 @@ title: #HackingGreat 2
 
 # \#HackingGreat 2
 Aika ja paikka: 2015-04-21, 16:00–
-Meetup ilmoittautumista varten: http://www.meetup.com/HackingGreat-Cybercom/events/228824776/
+
+Meetup ilmoittautumista varten: [http://www.meetup.com/HackingGreat-Cybercom/events/228824776/](http://www.meetup.com/HackingGreat-Cybercom/events/228824776/)
 
 Hacking Great -tapahtuman esitiedot ja ohjeet:
 
