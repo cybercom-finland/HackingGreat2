@@ -8,6 +8,8 @@ Aika ja paikka: 2015-04-21, 16:00–
 
 Meetup ilmoittautumista varten: (http://www.meetup.com/HackingGreat-Cybercom/events/228824776/)[http://www.meetup.com/HackingGreat-Cybercom/events/228824776/]
 
+![Kävelijämme, Pertti](https://pbs.twimg.com/media/CQKs2NtUAAA7XrZ.jpg:large "Kävelijämme, Pertti")
+
 Hacking Great -tapahtuman esitiedot ja ohjeet:
 
 ---
