@@ -4,7 +4,7 @@ title: #HackingGreat 2
 ---
 
 # \#HackingGreat 2
-Aika ja paikka: 2015-04-21, 16:00–
+Aika ja paikka: 2015-04-21, 16:00–, [Technopolis, Kansleri](http://www.technopolis.fi/kokoustilat/tampere/yliopistonrinne/kalevantie-2-kansleri/)
 
 Meetup ilmoittautumista varten: [http://www.meetup.com/HackingGreat-Cybercom/events/228824776/](http://www.meetup.com/HackingGreat-Cybercom/events/228824776/)
 
