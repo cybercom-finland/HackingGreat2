@@ -8,7 +8,8 @@ Aika ja paikka: 2015-04-21, 16:00–, [Technopolis, Kansleri](http://www.technop
 
 Meetup ilmoittautumista varten: [http://www.meetup.com/HackingGreat-Cybercom/events/228824776/](http://www.meetup.com/HackingGreat-Cybercom/events/228824776/)
 
-Collaborative Spotify playlist: http://open.spotify.com/user/cybercomfinland/playlist/3UjTaopdGCr4xc8TWUWKJH
+Collaborative Spotify playlist: 
+[http://open.spotify.com/user/cybercomfinland/playlist/3UjTaopdGCr4xc8TWUWKJH](http://open.spotify.com/user/cybercomfinland/playlist/3UjTaopdGCr4xc8TWUWKJH)
 (Omalla tililläsi klikkaa "follow", ja sitten voit lisätä kappaleita listalle)
 
 ![Kävelijämme, Pertti](https://pbs.twimg.com/media/CQKs2NtUAAA7XrZ.jpg:medium "Kävelijämme, Pertti")
