@@ -39,7 +39,7 @@ Vetäjänä koneälyalkemisti Tero Keski-Valkama
 * Täältä voi lukea taustaa: [http://pages.cs.wisc.edu/~jerryzhu/cs540/handouts/hearst98-SVMtutorial.pdf](http://pages.cs.wisc.edu/~jerryzhu/cs540/handouts/hearst98-SVMtutorial.pdf)
 * Octave: https://www.gnu.org/software/octave/
 * Node.js: https://nodejs.org
-* Pohjakoodi: `git clone https://github.com/cybercom-finland/HackingGreatML`
+* Pohjakoodi: `git clone https://github.com/cybercom-finland/HackingGreatML` : [https://github.com/cybercom-finland/HackingGreatML](https://github.com/cybercom-finland/HackingGreatML)
 
 ---
 
