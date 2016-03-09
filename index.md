@@ -19,8 +19,15 @@ Collaborative Spotify playlist:
 ## Tech track 1: IoT-teollisuusväylät ja node.js
 Vetäjänä IoT-velhot Jyrki Kujanpää ja Tarmo Pajunen
 
+Tarkoituksena tehdä simppeli node-applikaatio joka kommunikoi toisen laitteen kanssa käyttäen teollisuusväylää (modbus/TCP tai Siemens S7).
+Yhteistyö ainakin Tech track 2:n kanssa mahdollista.
+
 ### Esitiedot ja tarvittavat työkalut:
-* 
+* Node.js: https://nodejs.org
+* Vapaavalintainen editori
+* Siemensin PLC:n kanssa käytetään [snap7:aa](http://snap7.sourceforge.net/)
+* [Modbus:n sivut](http://modbus.org/)
+
 
 ---
 
