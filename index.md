@@ -28,7 +28,11 @@ Vetäjänä IoT-velhot Jyrki Kujanpää ja Tarmo Pajunen
 Vetäjänä frontend-guru Timo Myllymäki
 
 ### Esitiedot ja tarvittavat työkalut:
-* 
+* Atom IDE ja Bower
+* Tehdään käyttöliittymä Googlen Polymer Paper Elements -komponenteilla
+* Tehdään 1-2 graafia jollain sopivalla työkalulla esim. C3.js
+* Haetaan graafeihin dataa Tech Trackin nodesta
+* Tehdään mahdollisesti joku ohjaussivu Tech Trackin tarpeisiin
 
 ---
 
