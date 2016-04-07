@@ -23,11 +23,10 @@ Tarkoituksena tehdä simppeli node-applikaatio joka kommunikoi toisen laitteen k
 Yhteistyö ainakin Tech track 2:n kanssa mahdollista.
 
 ### Esitiedot ja tarvittavat työkalut:
-* Node.js: https://nodejs.org
+* Node.js: [https://nodejs.org](https://nodejs.org)
 * Vapaavalintainen editori
 * Siemensin PLC:n kanssa käytetään [snap7:aa](http://snap7.sourceforge.net/)
 * [Modbus:n sivut](http://modbus.org/)
-
 
 ---
 
@@ -50,7 +49,6 @@ Vetäjänä koneälyalkemisti Tero Keski-Valkama
 * Täältä voi lukea taustaa: [http://pages.cs.wisc.edu/~jerryzhu/cs540/handouts/hearst98-SVMtutorial.pdf](http://pages.cs.wisc.edu/~jerryzhu/cs540/handouts/hearst98-SVMtutorial.pdf)
 * Octave: https://www.gnu.org/software/octave/
 * Node.js: https://nodejs.org
-* Pohjakoodi: `git clone https://github.com/cybercom-finland/HackingGreatML` : [https://github.com/cybercom-finland/HackingGreatML](https://github.com/cybercom-finland/HackingGreatML)
 
 ---
 
@@ -61,3 +59,4 @@ Vetäjänä koneälyalkemisti Tero Keski-Valkama
   * Atom ([https://atom.io/](https://atom.io/))
   * WebStorm ([https://www.jetbrains.com/webstorm/](https://www.jetbrains.com/webstorm/))
   * tai vaikka kaikki.
+* Pohjakoodi: `git clone https://github.com/cybercom-finland/HackingGreatML` : [https://github.com/cybercom-finland/HackingGreatML](https://github.com/cybercom-finland/HackingGreatML)
