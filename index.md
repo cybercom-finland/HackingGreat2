@@ -36,7 +36,7 @@ Vetäjänä frontend-guru Timo Myllymäki
 ### Esitiedot ja tarvittavat työkalut:
 * Atom IDE ja Bower
 * Tehdään käyttöliittymä Googlen Polymer Paper Elements -komponenteilla
-* Tehdään 1-2 graafia jollain sopivalla työkalulla esim. C3.js
+* Tehdään 1-2 graafia jollain sopivalla työkalulla esim. Google Charts
 * Haetaan graafeihin dataa Tech Trackin nodesta
 * Tehdään mahdollisesti joku ohjaussivu Tech Trackin tarpeisiin
 
